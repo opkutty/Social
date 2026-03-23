@@ -1,12 +1,13 @@
-# 🚨 Social Engineering in Cyber Forensics  
-> *“The weakest link in security is not the system… it’s the human.”*
+### 🚨 Social Engineering in Cyber Forensics  
+      *“The weakest link in security is not the system… it’s the human.”*
 
+---
 ---
 
 ## 🌍 Why This Topic Matters
 In today’s digital world, attackers don’t always break systems — they **break people**.  
 Social engineering is responsible for a majority of cyber attacks because it exploits **trust, fear, curiosity, and urgency**.
-
+---
 ---
 
 ## 🧠 What is Social Engineering?
